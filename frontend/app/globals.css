@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.maplibregl-popup-content {
+  border-radius: 8px;
+}
